@@ -1,6 +1,6 @@
 ![MasterHead](https://as2.ftcdn.net/v2/jpg/05/39/40/25/1000_F_539402520_YzMAWMn1lq53OB6IsVxz1Abnwe6GMQnf.jpg)
 <h1 align="center">Hi 👋, I'm Pappu Sanodiya</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="center">A passionate DevOps & Cloud engineer from India</h3>
 <img alig ="right" alt=Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQFtt7xNauRBcQ/article-inline_image-shrink_1000_1488/0/1609093564168?e=1697068800&v=beta&t=39fMe8jnnWdEcYwpkNQvCIxE1759oxy8mP2Yjh5Yg6w">
 
 
