@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Terraform, Ansible**
 
-- 📝 I regularly write articles on [https://medium.com/@pspappu7354](https://medium.com/@pspappu7354)
+- 📝 I regularly write articles on [https://medium.com/@pspappu7354](https://medium.com/@pappusanodiya)
 
 - 💬 Ask me about **DevOps,AWS cloud**
 
