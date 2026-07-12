@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pappu_sano7354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pappu_sano7354" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pappu26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pappu_sano7354" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pappu2612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pappu2612/" height="30" width="40" /></a>
 <a href="https://medium.com/pappu sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="pappu sanodiya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pappu sanodiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pappu sanodiya" height="30" width="40" /></a>
