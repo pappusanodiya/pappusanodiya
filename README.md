@@ -27,5 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappusanodiya&show_icons=true&locale=en&layout=compact" alt="pappusanodiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappusanodiya&show_icons=true&locale=en" alt="pappusanodiya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappusanodiya&theme=dark&hide_border=true" alt="pappusanodiya" /></p>
