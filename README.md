@@ -1,7 +1,9 @@
 ![MasterHead](https://as2.ftcdn.net/v2/jpg/05/39/40/25/1000_F_539402520_YzMAWMn1lq53OB6IsVxz1Abnwe6GMQnf.jpg)
 <h1 align="center">👋 I'm Pappu Sanodiya</h1>
-<h3 align="center">A passionate DevOps & Cloud engineer from India</h3>
-<h3 align="center">Turning ideas into reliable infrastructure with Linux & DevOps ⚡</h3>
+<h3 align="center">Linux System Administrator AWS DevOps Engineer from Hyderabad India</h3>
+
+
+<h3 align="center">Turning ideas into reliable infrastructure⚡</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pappusanodiya&label=Profile%20views&color=0e75b6&style=flat" alt="pappusanodiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pappu_sano7354" target="blank"><img src="https://img.shields.io/twitter/follow/pappu_sano7354?logo=twitter&style=for-the-badge" alt="pappu_sano7354" /></a> </p>
