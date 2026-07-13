@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Terraform, Ansible**
 
-- 📝 I regularly write articles on [https://medium.com/@pspappu7354](https://medium.com/@pappusanodiya)
+- 📝 I regularly write articles on https://medium.com/@pappusanodiya
 
-- 💬 Ask me about **DevOps,AWS cloud**
+- 💬 Ask me about **Linux, DevOps And Cloud**
 
-- 📫 How to reach me **pspappu7354@gmail.com**
+- 📫 How to reach me **pappusanodiya7354@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
